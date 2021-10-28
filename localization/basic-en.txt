@@ -1,1 +1,2 @@
-this is a basic file
+this is a basic fe
+ new string
